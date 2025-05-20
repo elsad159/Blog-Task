@@ -21,9 +21,10 @@ git clone https://github.com/elsad159/Blog-Task.git
       cd my-vite-app
 3. Asılılıqları quraşdırın:
     terminalda: 
-        npm install
+ #        
+npm install
     # və ya
-        yarn install
+yarn install
 4. Layihəni işə salmaq
     terminalda: 
         npm run dev
