@@ -34,7 +34,7 @@ const Card = ({
             </h2>
 
             <div className="card-writer">
-                <span style={{ color: "#a09ea3", marginRight: "5px", fontWeight: 400 }}>Writer:</span>
+                <span style={{ color: "#a09ea3", marginRight: 5, fontWeight: 400 }}>Writer:</span>
                 <span style={{ fontWeight: 600 }}>{writer}</span>
 
                 <Tooltip
