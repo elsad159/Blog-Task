@@ -1,6 +1,6 @@
 React Blog Cards Application
 
-Layihə React ilə hazırlanmış kiçik veb tətbiqidir və burada rechart kitabxanası istifadə olunaraq çartlar düzəldilib. UI dizaynı üçün Material-UI (MUI) komponentləri tətbiq edilmiş, üslublandırma isə adi CSS vasitəsilə həyata keçirilmişdir(Progress Bar, CircularProgress). Tətbiqdə Blog və Kart komponentləri göstərilir.
+Layihə React ilə hazırlanmış kiçik veb tətbiqidir və burada rechart kitabxanası istifadə olunaraq çartlar düzəldilib. UI dizaynı üçün Material-UI (MUI) komponentləri tətbiq edilmiş, üslublandırma isə adi CSS vasitəsilə həyata keçirilmişdir(Progress Bar, CircularProgress). Tətbiqdə Blog Charts və Kart komponentləri göstərilir.
 
 Başlamaq üçün təlimat
 
