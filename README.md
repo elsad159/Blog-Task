@@ -14,7 +14,7 @@ Quraşdırma
 
 1. Layihəni klonlayın:
 
-git clone https://github.com/sizin-repo-adiniz/react-blog-cards.git
+git clone https://github.com/elsad159/Blog-Task.git
 
 2. Layihə qovluğuna keçin:
     terminalda: 
