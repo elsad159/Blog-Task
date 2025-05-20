@@ -7,7 +7,7 @@ const chartData = summary.summary.byCategory;
 
 const COLORS = ['#A259FF', '#F89E52', '#5CD97C', '#FFD25F', '#7C5CFC', '#F76DA0'];
 
-const PieChart = () => {
+const MyPieChart = () => {
     const totalCount = chartData.reduce((sum, item) => sum + item.count, 0);
 
     return (
@@ -66,4 +66,4 @@ const PieChart = () => {
     );
 };
 
-export default PieChart;
+export default MyPieChart;
